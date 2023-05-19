@@ -1875,8 +1875,8 @@ input, select, textarea {
 /* Container */
 
 	#container {
-		height: 300px;
-		width: 300px;
+		height: 250px;
+		width: 250px;
 		position: relative;
 		}
 	#image {
@@ -1888,11 +1888,11 @@ input, select, textarea {
 		z-index: 100;
 		position: absolute;
 		family: Giorgio;
-		color: black;
+		color: white;
 		font-size: 20px;
 		font-weight: bold;
 		left: 100px;
-		top: 50px;
+		top: 90px;
 		}
 
 /* Wrapper */
