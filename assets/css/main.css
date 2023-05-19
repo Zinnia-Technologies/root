@@ -1875,8 +1875,8 @@ input, select, textarea {
 /* Container */
 
 	#container {
-		height: 260px;
-		width: 260px;
+		height: 255px;
+		width: 255px;
 		position: relative;
 		}
 	#image {
@@ -1891,7 +1891,7 @@ input, select, textarea {
 		color: white;
 		font-size: 16px;
 		font-weight: bold;
-		left: 90px;
+		left: 70px;
 		top: 90px;
 		}
 
