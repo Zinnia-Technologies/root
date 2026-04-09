@@ -2570,11 +2570,11 @@ input, select, textarea {
 		}
 
 		.image.left, .image.right {
-			max-width: 40%;
+			max-width: 100%;
 		}
 
 			.image.left img, .image.right img {
-				width: 80%;
+				width: 100%;
 			}
 
 		.image.left {
